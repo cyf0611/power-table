@@ -8,7 +8,7 @@
 
 ### 使用方法如下
 1. 首先引入Jq文件和该js文件路径
-2. 由于用到了fontawsome 中的图标，需要引入cdn， <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+2. 由于用到了fontawsome 中的图标，需要引入cdn， < link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
 3. `body`中插入div标签，可以不写类名或者ID，但是必须有一个div
 4. 上一步中的`div`中插入table标签，写上id
 5. `script`中引入相关API，如下：
